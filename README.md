@@ -6,6 +6,7 @@ just another IOT basic pratices for my progress 3
 
 - ESP32
 
+- Arduino Lenonardo
 ---
 
 https://wiki.dfrobot.com/ADKeyboard_Module__SKU__DFR0075_
